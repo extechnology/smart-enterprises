@@ -72,7 +72,7 @@ const ContactSection = () => {
           <Col md={4} className="mb-3">
             <div className="info-box py-4 px-5 rounded">
               <TelephoneFill size={20} className="me-2" />
-              +91 9846151900
+              +91 98460 81800
             </div>
           </Col>
           <Col md={4} className="mb-3">
