@@ -33,7 +33,14 @@ const Footer = () => {
                 </li>
               ))}
             </ul>
-           <a className="text-decoration-none text-black pt-0" href="https://www.warrantyregistration.warriorind.in/" target="_blank" rel="noopener noreferrer">Product Registration</a>
+            <a
+              className="text-decoration-none text-black pt-0"
+              href="https://www.warrantyregistration.warriorind.in/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Product Registration
+            </a>
             <div className="d-flex gap-2 pt-md-5 pb-2 text-black">
               <a
                 href="https://www.facebook.com/warriorpowerindia/"
@@ -126,22 +133,22 @@ const Footer = () => {
             <h5 className="pb-md-3">Address</h5>
             <p>
               <i className="fas fa-phone "></i>
-              <i className="fa-brands fa-whatsapp ps-2"></i> +91 9846151800
+              <i className="fa-brands fa-whatsapp ps-2"></i> +91 9876543210
             </p>
-            <p>
+            {/* <p>
               <i className="fas fa-phone "></i>
               <i className="fa-brands fa-whatsapp ps-2"></i> +91 9846081800
             </p>
             <p>
               <i className="fas fa-phone "></i>
               <i className="fa-brands fa-whatsapp ps-2"></i> +91 9847341800
-            </p>
+            </p> */}
             <p>
-              <i className="fas fa-envelope"></i> info@warriorind.com
+              <i className="fas fa-envelope"></i> info@smartenterprises.com
             </p>
             <h5 className="pb-md-1 pt-md-1">Corporate Office</h5>
             <p>
-              <i className="fas fa-map-marker-alt"></i> Warrior Power India,
+              <i className="fas fa-map-marker-alt"></i> MM 11/505-C, MULLAMPARA,
               Manjeri, Malappuram, Kerala, 676517
             </p>
           </div>

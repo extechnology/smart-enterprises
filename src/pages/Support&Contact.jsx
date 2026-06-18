@@ -78,7 +78,7 @@ const ContactSection = () => {
           <Col md={4} className="mb-3">
             <div className="info-box py-4 px-5 rounded">
               <EnvelopeFill size={20} className="me-2" />
-              info@warriorind.com
+              info@smartenterprises.com
             </div>
           </Col>
         </Row>

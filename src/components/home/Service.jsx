@@ -71,7 +71,7 @@ const Service = () => {
             <div className="pt-3">
               <h4 className="fw-bold">Unmatched Customer Support</h4>
               <p className="text-muted">
-                Warrior prioritizes customer satisfaction to ensure the best pre
+                Smart Enterprises prioritizes customer satisfaction to ensure the best pre
                 and post sales experience. 24 Hr customer support is available.
               </p>
 

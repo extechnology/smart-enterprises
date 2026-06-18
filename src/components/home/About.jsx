@@ -18,9 +18,9 @@ function About() {
           className="about-left col-12 col-md-4 rounded-4"
           data-aos="zoom-in"
         >
-          <h3 className="px-4 py-3 fs-4 fw-bold">About Warrior</h3>
+          <h3 className="px-4 py-3 fs-4 fw-bold">About Smart Enterprises</h3>
           <p className="px-4">
-            With 15 years of experience, Warrior Inverter excels in
+            With 15 years of experience, Smart Enterprises excels in
             manufacturing and installing high-quality inverters, batteries,
             solar systems, and water purifiers. Our dedication to innovation and
             excellence ensures top-tier products that meet the diverse needs of
@@ -30,7 +30,7 @@ function About() {
             our advanced water purifiers provide clean, safe drinking water,
             enhancing overall quality of life. <br /> <br />
             We prioritize customer satisfaction through comprehensive support
-            and maintenance services. Warrior Inverter is committed to leading
+            and maintenance services. Smart Enterprises is committed to leading
             in green technology, driving environmental stewardship and energy
             independence.
           </p>
@@ -51,10 +51,11 @@ function About() {
           />
           <p className="text-white text-center">
             Powering a Sustainable Future. With pioneering inverters, UPS
-            systems, batteries, solar solutions, and water purifiers, Warrior
-            leads in innovation and reliability. Trust Warrior for eco-friendly
-            technologies that ensure energy independence and clean water,
-            enhancing lives and protecting the planet
+            systems, batteries, solar solutions, and water purifiers, Smart
+            Enterprises leads in innovation and reliability. Trust Smart
+            Enterprises for eco-friendly technologies that ensure energy
+            independence and clean water, enhancing lives and protecting the
+            planet
           </p>
         </div>
       </div>

@@ -93,7 +93,7 @@ const BuyNowPage = () => {
         key: import.meta.env.VITE_RAZORPAY_KEY_ID,
         amount,
         currency,
-        name: "warrior",
+        name: "Smart Enterprises",
         description: product.title,
         image: "/Warrior logo Png-01.png",
         order_id: razorpayOrderId,

@@ -6,13 +6,25 @@ const CopyrightSection = () => {
     <div className="copyright-section  container ">
       <div className="d-lg-flex copyright-main justify-content-between text-center pt-3 pb-2">
         <div>
-          <p>&copy; 2024 warrior. All Rights Reserved.</p>
+          <p>&copy; 2026 smartenterprises. All Rights Reserved.</p>
         </div>
-        <div className="w-50 mx-auto">
+        {/* <div className="w-50 mx-auto">
           <p className="text-center ">
             Our Parent Company's Legal Name Is VILAKKUMADATHIL YASAR ARAFATH,
             our trade Name Is Smart Enterprises, and Warriorind and Neogrid are
             Subsidiaries.
+          </p>
+        </div> */}
+        <div className="d-flex justify-content-center">
+          <p className="text-sm md:text-center font-light text-gray-300">
+            powered by{" "}
+            <a
+              href="https://extechnology.in"
+              target="_blank"
+              rel="noreferrer noopener"
+            >
+              <span className="font-bold pl-1">extechnology</span>
+            </a>
           </p>
         </div>
         <div className="footer-links">
@@ -32,18 +44,6 @@ const CopyrightSection = () => {
             Shipment Policy
           </Link>
         </div>
-      </div>
-      <div className="d-flex justify-content-center">
-        <p className="text-sm md:text-center font-light text-gray-300">
-          powered by{" "}
-          <a
-            href="https://extechnology.in"
-            target="_blank"
-            rel="noreferrer noopener"
-          >
-            <span className="font-bold pl-1">extechnology</span>
-          </a>
-        </p>
       </div>
     </div>
   );

@@ -91,12 +91,13 @@ function Navbar() {
       <div className="container-fluid ps-md-5 pe-md-5 ps-0 pe-0">
         {/* Logo */}
         <Link className="navbar-brand" to={"/"}>
-          <img
+          {/* <img
             src="/Warrior logo Png-01.png"
             alt="Logo"
             loading="lazy"
             className="logo-img"
-          />
+          /> */}
+          <h1 className="smart-enterprises-logo fs-3 fw-bold">Smart Enterprises</h1>
         </Link>
 
         {/* Toggler for mobile */}
