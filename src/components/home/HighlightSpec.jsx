@@ -19,7 +19,7 @@ const HighlightSpecifications = () => {
   }, []);
 
   const specifications = [
-    { icon: <FaMicrochip />, title: "32-bit Processor" },
+    { icon: <FaMicrochip />, title: "32-bit Processo" },
     { icon: <FaBolt />, title: "Smart Charging" },
     { icon: <FaShieldAlt />, title: "Overload Protection" },
     { icon: <FaBatteryFull />, title: "Long Backup" },
