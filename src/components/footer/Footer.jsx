@@ -131,24 +131,25 @@ const Footer = () => {
           {/* Connect with Us Section */}
           <div className="col-md-3 mb-1 small">
             <h5 className="pb-md-3">Address</h5>
+            <h1 className="smart-enterprises-logo fs-6 pb-md-2 fw-medium">Smart Enterprises</h1>
             <p>
               <i className="fas fa-phone "></i>
-              <i className="fa-brands fa-whatsapp ps-2"></i> +91 9876543210
+              <i className="fa-brands fa-whatsapp ps-2"></i> +91 9846151800
             </p>
-            {/* <p>
+            <p>
               <i className="fas fa-phone "></i>
               <i className="fa-brands fa-whatsapp ps-2"></i> +91 9846081800
             </p>
             <p>
               <i className="fas fa-phone "></i>
               <i className="fa-brands fa-whatsapp ps-2"></i> +91 9847341800
-            </p> */}
+            </p>
             <p>
               <i className="fas fa-envelope"></i> info@smartenterprises.com
             </p>
             <h5 className="pb-md-1 pt-md-1">Corporate Office</h5>
             <p>
-              <i className="fas fa-map-marker-alt"></i> MM 11/505-C, MULLAMPARA,
+              <i className="fas pe-md-2 fa-map-marker-alt"></i>Smart Enterprises, MM 11/505-C, MULLAMPARA,
               Manjeri, Malappuram, Kerala, 676517
             </p>
           </div>
