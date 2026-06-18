@@ -6,9 +6,9 @@ import {
   FaMicrochip,
   FaTemperatureLow,
 } from "react-icons/fa";
-import "./Highlight.css";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import "./HIghlight.css";
 
 const HighlightSpecifications = () => {
   useEffect(() => {
